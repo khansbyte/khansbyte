@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Shehryar & welcome to khansbyte!
 
 ## 🚀 About Me
-- 🎯 **Algorithmic Trader | Data Scientist | Cybersecurity Enthusiast**
-- 📊 Specializing in **quantitative finance, research & analysis, AI-driven trading, and risk modeling**
+- 🎯 **Quantitative Analyst | Algorithmic Trader | Data Scientist | Cybersecurity Enthusiast**
+- 📊 Specializing in **quantitative finance, research & analysis, automation, AI-driven trading, and risk modeling**
 - 🔍 Passionate about **market strategies, strategy automation, real-world business problems, and alternative datasets**
 - 🛠 Building **LLM-powered analysis tools, algo bots, and penetration testing automation**
 - 📚 Exploring **statistical modeling, time series forecasting, and NLP for finance**
@@ -14,7 +14,6 @@
 ![NinjaTrader](https://img.shields.io/badge/NinjaTrader-FF3C00?style=for-the-badge&logoColor=white)
 ![MetaTrader 5](https://img.shields.io/badge/MetaTrader%205-0077B5?style=for-the-badge&logoColor=white)
 ![cTrader](https://img.shields.io/badge/cTrader-FF3C00?style=for-the-badge&logoColor=white)
-![Interactive Brokers](https://img.shields.io/badge/Interactive%20Brokers-000000?style=for-the-badge&logoColor=white)
 ![OpenBB](https://img.shields.io/badge/OpenBB-000000?style=for-the-badge&logoColor=white)
 
 ### 🧠 Data Science & Machine Learning
